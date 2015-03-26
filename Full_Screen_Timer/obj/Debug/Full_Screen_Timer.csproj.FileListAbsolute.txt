@@ -1,0 +1,8 @@
+c:\users\$uman\documents\visual studio 2013\Projects\Full_Screen_Timer\Full_Screen_Timer\bin\Debug\Full_Screen_Timer.exe
+c:\users\$uman\documents\visual studio 2013\Projects\Full_Screen_Timer\Full_Screen_Timer\bin\Debug\Full_Screen_Timer.pdb
+c:\users\$uman\documents\visual studio 2013\Projects\Full_Screen_Timer\Full_Screen_Timer\obj\Debug\Full_Screen_Timer.csprojResolveAssemblyReference.cache
+c:\users\$uman\documents\visual studio 2013\Projects\Full_Screen_Timer\Full_Screen_Timer\obj\Debug\Full_Screen_Timer.Form1.resources
+c:\users\$uman\documents\visual studio 2013\Projects\Full_Screen_Timer\Full_Screen_Timer\obj\Debug\Full_Screen_Timer.Properties.Resources.resources
+c:\users\$uman\documents\visual studio 2013\Projects\Full_Screen_Timer\Full_Screen_Timer\obj\Debug\Full_Screen_Timer.csproj.GenerateResource.Cache
+c:\users\$uman\documents\visual studio 2013\Projects\Full_Screen_Timer\Full_Screen_Timer\obj\Debug\Full_Screen_Timer.exe
+c:\users\$uman\documents\visual studio 2013\Projects\Full_Screen_Timer\Full_Screen_Timer\obj\Debug\Full_Screen_Timer.pdb
